@@ -1,4 +1,4 @@
-BrLw <-function(numClass=35,odds=35,countoDo=637){
+BrLw <-function(numClass=35,odds=2,countoDo=637){
 
 days=1:365
 count=countoDo
